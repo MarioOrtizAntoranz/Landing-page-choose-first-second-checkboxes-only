@@ -1,0 +1,844 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input"
+			],
+			[
+				"EM",
+				"email"
+			],
+			[
+				"check",
+				"checkboxes"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"alert",
+				"alert-group-1"
+			],
+			[
+				"group",
+				"group1"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"backgrund",
+				"background-repeat"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"non",
+				"none"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"order",
+				"order_id"
+			],
+			[
+				"sen",
+				"sendajaxadata"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"shi",
+				"shipping"
+			],
+			[
+				"pro",
+				"product1"
+			],
+			[
+				"co",
+				"country"
+			],
+			[
+				"countr",
+				"country1"
+			],
+			[
+				"sa",
+				"state"
+			],
+			[
+				"adre",
+				"adress"
+			],
+			[
+				"pho",
+				"phone"
+			],
+			[
+				"phone",
+				"phone1"
+			],
+			[
+				"email",
+				"email1"
+			],
+			[
+				"tot",
+				"total1"
+			],
+			[
+				"prod",
+				"product2"
+			],
+			[
+				"count",
+				"country2"
+			],
+			[
+				"sta",
+				"state2"
+			],
+			[
+				"cit",
+				"city2"
+			],
+			[
+				"stA",
+				"state"
+			],
+			[
+				"ORDER",
+				"order_id"
+			],
+			[
+				"emai",
+				"email"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"sh",
+				"shipping"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"op",
+				"operand2"
+			],
+			[
+				"operan",
+				"operand2"
+			],
+			[
+				"v",
+				"value2"
+			],
+			[
+				"va",
+				"value1"
+			],
+			[
+				"row",
+				"rowsprices"
+			],
+			[
+				"NAME",
+				"name"
+			],
+			[
+				"COU",
+				"country"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border-t",
+				"border-top-width"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"u",
+				"ul	HTML - Unordered list"
+			],
+			[
+				"PADD",
+				"padding-right"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"san",
+				"sans-serif"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"l",
+				"lastName"
+			],
+			[
+				"s",
+				"script	HTML - Script"
+			],
+			[
+				"la",
+				"lasName"
+			],
+			[
+				"S",
+				"ShowDifference"
+			],
+			[
+				"D",
+				"DoProcess"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"Loa",
+				"LoadAjax"
+			],
+			[
+				"SE",
+				"section"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"ge",
+				"getCustomers"
+			],
+			[
+				"view",
+				"view1"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"lo",
+				"logPerson"
+			],
+			[
+				"h",
+				"h1	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Pac",
+		"selected_items":
+		[
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"Sni",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"Snippet: h",
+				"Snippet: Short Tag"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Mario/Desktop/sass-textmate-bundle-master/README.md",
+		"/Users/Mario/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Mario/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Mario/Work/Procesos/GVC/Landing-page/js/main.js",
+		"/Users/Mario/Movies/Fargo S2/Fargo.S02E01.INTERNAL.HDTV.x264-BATV[ettv]/S02E01- Waiting for Dutch.srt",
+		"/Users/Mario/Movies/The.Knick.S02/The.Knick.S02E02.HDTV.x264-KILLERS/The.Knick.S02E02.HDTV.x264-KILLERS.srt",
+		"/Users/Mario/Movies/The.Knick.S02/The.Knick.S02E01.HDTV.x264-KILLERS/The.Knick.S02E01.HDTV.x264-KILLERS.srt",
+		"/Users/Mario/Work/Procesos/GVC/Landing-page/index.html",
+		"/Users/Mario/Downloads/noname.eml",
+		"/Users/Mario/Work/Procesos/GVC/Landing-page2/js/main.js",
+		"/Users/Mario/Downloads/archivoDeApuestas (3).csv",
+		"/Users/Mario/Desktop/Landing-page 2/js/main.js",
+		"/Users/Mario/Desktop/Landing-page/js/main.js",
+		"/Users/Mario/Work/Procesos/GVC/Landing-page/backend/post.php",
+		"/Users/Mario/Work/Procesos/GVC/Landing-page/css/landing-page.css",
+		"/Users/Mario/Movies/The.Lobster.2015.HDRip.XviD.AC3-EVO/The.Lobster.2015.HDRip.XviD.AC3-EVO.srt",
+		"/Users/Mario/Desktop/Landing-page/index.html",
+		"/Users/Mario/Downloads/archivoDeApuestas (1).csv",
+		"/Users/Mario/Work/Procesos/GVC/Landing-page/js/main_glo.js",
+		"/Users/Mario/Desktop/main_glo.js",
+		"/Users/Mario/Desktop/multiple-select-master/multiple-select.js",
+		"/Users/Mario/Desktop/test/index.html",
+		"/Users/Mario/Desktop/multiple-select-master/demos/index.html",
+		"/Users/Mario/Desktop/multiple-select-master/multiple-select.jquery.json",
+		"/Users/Mario/Downloads/archivoDeApuestas.csv",
+		"/Users/Mario/Work/Procesos/GVC/backup/Landing-page 17-12/index.html",
+		"/Users/Mario/Work/Procesos/Digital_Spark/js/main.js",
+		"/Users/Mario/Work/Procesos/GVC/Landing-page/backend/createCSV.php",
+		"/Users/Mario/Work/Procesos/GVC/Docs/SELECT ID, fullname, email FROM miapuesta_form INT",
+		"/Users/Mario/Work/Procesos/GVC/Docs/TAREAS",
+		"/Users/Mario/Work/Procesos/GVC/Landing-page/js/main_backup.js",
+		"/Users/Mario/Work/Procesos/Digital_Spark/css/style.css",
+		"/Users/Mario/Work/Procesos/Digital_Spark/index.php",
+		"/Users/Mario/Work/Procesos/GVC/Docs/ddbb remote data",
+		"/Users/Mario/Desktop/untitled",
+		"/Users/Mario/Work/Procesos/GVC/Landing-page/backend/Mario.csv",
+		"/Users/Mario/Work/Procesos/Digital_Spark/backend/form.php",
+		"/Users/Mario/Sites/asexualmatch.com/sites/asexualmatch.local/settings.php",
+		"/Users/Mario/Work/Procesos/Digital_Spark/backups/backup 05-12-15/backend/api.php",
+		"/Users/Mario/Work/Procesos/Digital_Spark/backups/backup 08-12-15/backend/form.php",
+		"/Users/Mario/Work/Procesos/Digital_Spark/backend/DB.php",
+		"/Users/Mario/Desktop/untitled.html",
+		"/Users/Mario/Work/Procesos/GVC/landing-page/css/landing-page.css",
+		"/Users/Mario/Work/Procesos/GVC/landing-page/index.html",
+		"/Users/Mario/Desktop/Usarioos De MiApuesta.html",
+		"/Users/Mario/hello.js",
+		"/Users/Mario/Courses/nodejs/helloworld.js",
+		"/Users/Mario/Downloads/colorway/home.php",
+		"/Users/Mario/Downloads/colorway/page.php",
+		"/Users/Mario/Work/Procesos/Digital_Spark/backend/api.php",
+		"/Users/Mario/Work/Procesos/Digital_Spark/backend/orderid.php",
+		"/Users/Mario/Work/Procesos/Digital_Spark/backend/ajaxsubmit.php",
+		"/Users/Mario/Work/Procesos/Digital_Spark/test/index.html",
+		"/Users/Mario/Work/Procesos/Itcontainers/pruebas/testok/post.html",
+		"/Users/Mario/Work/Procesos/Itcontainers/pruebas/testok/post.php",
+		"/Users/Mario/Work/Procesos/Itcontainers/solucion.html",
+		"/Users/Mario/Work/Procesos/Itcontainers/index.php",
+		"/Users/Mario/Work/Procesos/Itcontainers/index.html",
+		"/Users/Mario/Work/Procesos/Itcontainers/data.html",
+		"/Users/Mario/Desktop/backup 07-12-15/index.php",
+		"/Users/mario/Work/Procesos/Digital_Spark/backend/api.php",
+		"/Users/mario/Work/Procesos/Digital_Spark/index.php",
+		"/Users/mario/Work/Procesos/Digital_Spark/js/main.js",
+		"/Users/mario/Work/Procesos/Digital_Spark/backend/api-countries.php",
+		"/Applications/MAMP/htdocs/Digital_Spark/js/main.js",
+		"/Applications/MAMP/htdocs/Test codility Itcontainers/index.html",
+		"/Users/mario/Work/marioortiz.net/redesign/index.html",
+		"/Applications/MAMP/htdocs/Digital_Spark/index.php",
+		"/Applications/MAMP/htdocs/Test/index2.html",
+		"/Applications/MAMP/htdocs/Test codility Itcontainers/index.php",
+		"/Applications/MAMP/htdocs/testok/post.php",
+		"/Applications/MAMP/htdocs/testok/post.html",
+		"/Applications/MAMP/htdocs/testok/js/dw_xhr.js",
+		"/Applications/MAMP/htdocs/Test/php/welcome.php",
+		"/Applications/MAMP/htdocs/Test/js/main.js",
+		"/Applications/MAMP/htdocs/Test/php/ajax-post-text.php",
+		"/Applications/MAMP/htdocs/Test/index.html",
+		"/Applications/MAMP/htdocs/Test/php/api.php",
+		"/Applications/MAMP/htdocs/Test/index.php",
+		"/Applications/MAMP/htdocs/Test/data.html",
+		"/Users/mario/Desktop/test/js/main.js",
+		"/Users/mario/Desktop/test/index.html",
+		"/Applications/MAMP/htdocs/Digital_Spark/backend/api-countries.php",
+		"/Applications/MAMP/htdocs/Digital_Spark/backend/api.php",
+		"/Applications/MAMP/htdocs/Digital_Spark/backend/DB.php",
+		"/Applications/MAMP/htdocs/Digital_Spark/css/style.css",
+		"/Applications/MAMP/htdocs/Digital_Spark/index.html",
+		"/Applications/MAMP/htdocs/Digital Spark/js/main.js",
+		"/Applications/MAMP/htdocs/Digital Spark/index.html",
+		"/Applications/MAMP/htdocs/Digital Spark/css/style.css",
+		"/Users/mario/Downloads/style.scssc",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/SUNWEB-ALTRAN-TEST/index.html",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/SUNWEB-ALTRAN-TEST/css/style.css",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/SUNWEB-ALTRAN-TEST/sass/style.scss",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/frontend-html-css/fonts/sunweb-icons/css/sunweb-icons.css",
+		"/Users/mario/Desktop/my-project/index.html",
+		"/Users/mario/Desktop/my-project/bower.json",
+		"/Users/mario/Desktop/responsive-images.js-master/bower.json",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/frontend-html-css/fonts/sunweb-icons/bower.json",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/Sunweb-test/sass/style.scss",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/Sunweb-test/index.html",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/Sunweb-test/css/basic-style.css",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/Sunweb-test/js/main.js",
+		"/Users/mario/Desktop/untitled",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/Sunweb-test/basic.html",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/Sunweb-test/assets/sass/libs/_mixins.scss",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/Sunweb-test/assets/sass/main.scss",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/Sunweb-test/assets/sass/libs/_skel.scss",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/Sunweb-test/assets/js/util.js",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/Sunweb-test/assets/css/ie9.css",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/html5up-halcyonic/assets/css/main.css",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/Sunweb-test/assets/config.rb",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/Sunweb-test/assets/css/main.css",
+		"/Users/mario/Documents/Procesos selección y otros/Altran/Sunweb-test/assets/sass/ie9.scss",
+		"/Applications/MAMP/htdocs/Javascript/Angularjs/ex9/index.html",
+		"/Applications/MAMP/htdocs/Javascript/Angularjs/ex8/index.html",
+		"/Applications/MAMP/htdocs/Javascript/Angularjs/ex8/index3.html",
+		"/Applications/MAMP/htdocs/Javascript/Angularjs/ex6/index.html",
+		"/Applications/MAMP/htdocs/Javascript/Angularjs/ex6/customers.php",
+		"/Applications/MAMP/htdocs/Javascript/Angularjs/ex5/customers.php",
+		"/Applications/MAMP/htdocs/Javascript/Angularjs/ex5/text.html",
+		"/Applications/MAMP/htdocs/Javascript/Angularjs/ex4/namesController.js",
+		"/Applications/MAMP/htdocs/Javascript/Angularjs/ex3/index.html",
+		"/Users/mario/Downloads/sublime-jquery-snippets-master/$_ajax.sublime-snippet",
+		"/Users/mario/Library/Application Support/Sublime Text 3/Packages/a.sublime-snippet",
+		"/Users/mario/Library/Application Support/Sublime Text 3/Packages/input-checkbox.sublime-snippet",
+		"/Users/mario/Library/Application Support/Sublime Text 3/Packages/lorem.sublime-snippet",
+		"/Users/mario/Library/Application Support/Sublime Text 3/Packages/input-tel.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/Mario/Desktop/Usarioos De MiApuesta_files",
+			"/Users/Mario/Work/Procesos/Digital_Spark/js",
+			"/Applications/MAMP/htdocs/Digital Spark/js",
+			"/Users/mario/Documents/Procesos selección y otros/Altran/Sunweb-test",
+			"/Users/mario/Library/Application Support/Sublime Text 3/Packages/User",
+			"/Applications/MAMP/htdocs/",
+			"/Applications/MAMP/htdocs/marioortiz.net",
+			"",
+			"/Applications/MAMP/htdocs/marioortiz.net",
+			"/Applications/MAMP/htdocs/redesign/",
+			"/Applications/MAMP/htdocs/redesign/css",
+			"/Applications/MAMP/htdocs/redesign",
+			"/Users/mario/Work/marioortiz.net/redesign/marioortiz.net rd",
+			"",
+			"/Users/mario/Work/marioortiz.net/redesign/marioortiz.net rd/index/js",
+			"/Users/mario/Work/marioortiz.net/redesign/marioortiz.net rd/index",
+			"/Users/mario/Work/marioortiz.net/redesign/marioortiz.net rd/index/css",
+			"/Users/mario/Desktop/xxxx_files",
+			"/Users/mario/Desktop/index",
+			"/Users/mario/Desktop/index,/Users/mario/Desktop/xxxx_files",
+			"/Users/mario/Desktop/index",
+			"",
+			"/Users/mario/Desktop/Portfolio Grid Style 1 - Mobius_files"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ignore",
+			"alert",
+			"ms-choice",
+			"Group 1",
+			"<optgroup label=\"Group 1\">",
+			"label",
+			".JPG",
+			".png",
+			"font-family",
+			"img",
+			"<img",
+			"subtitle",
+			"profits-list",
+			"#fdcb43",
+			"Lato",
+			"url",
+			"jpg",
+			"counter",
+			"graph",
+			"graph-bullet.png",
+			"graph-bullet.png Failed to load resource: net::ERR_FILE_NOT_FOUND",
+			"col-sm-3",
+			"col-xs-3",
+			"#0b0275",
+			"logo",
+			"lato",
+			"fonts",
+			"fonts.google",
+			"font-family",
+			"adress",
+			"\"$\"+",
+			"total-price",
+			"js",
+			"attr",
+			"footer-col",
+			"hr",
+			"terms-title",
+			"br",
+			"[",
+			"butt",
+			"home",
+			"header",
+			"section",
+			"clearfix",
+			"content",
+			"hero",
+			"banner",
+			"'Ubuntu'",
+			"semi",
+			"Droid Serif",
+			"h1",
+			"main",
+			"skel",
+			"breakpoint",
+			"<scope>source.css, source.less, source.scss, source.stylus</scope>",
+			"<scope>*</scope>",
+			"fa",
+			"glog_glog",
+			"intro-header",
+			"x=",
+			"name=",
+			"lead",
+			"section-heading",
+			"content-section",
+			"img",
+			"text-shadow",
+			"navbar",
+			"Start Bootstrap",
+			"favicon",
+			"http://marioortiz.net/",
+			"(expiration not specified)",
+			"http://marioortiz.net/",
+			"mobius",
+			"redux-google-fonts-mobius-css",
+			"menu-item-has-children",
+			"mobius-grid",
+			"close-cursor.png",
+			"mobius-grid",
+			"margin",
+			"to-page-heading",
+			"paratrue",
+			"to-page-heading",
+			"icon-to-back",
+			"push-anim-overlay",
+			"close-cursor.png",
+			"cursor",
+			"sliding-menu-inner",
+			"upload_tmp_dir",
+			"open_basedir",
+			"prel",
+			"font-family",
+			"core",
+			"owl.carousel",
+			"owl.carousel.js",
+			";\n",
+			"to-item-overlay",
+			"Logo-mobius-apple",
+			"close-cursor.png",
+			"css/mobius",
+			"index/",
+			"STYLE.CSS",
+			"awesome",
+			"'href',''",
+			"menu-item",
+			"capitalize",
+			"menu-item",
+			"href",
+			"actived",
+			"activate",
+			"actived",
+			"#top-nav",
+			"hover",
+			"box-shadow",
+			"active",
+			"#top-nav",
+			"iframe_api",
+			"history",
+			"jquery.yith-wcwl",
+			"jquery.selectBox",
+			"sliding-menu-open",
+			"wp-emoji-release.min",
+			"add to",
+			"icomoon",
+			"font-awesome",
+			"close-cursor.png",
+			"logo-dark",
+			"close-cursor.png",
+			"sidebar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".jpg",
+			".JPG",
+			"<img alt=\"image\"",
+			"subtitle",
+			"col-sm-6",
+			"col-xs-6",
+			"",
+			"prop",
+			"<scope>text.html</scope>",
+			"",
+			"\"access 1 month\"",
+			"ExpiresByType http://marioortiz.net/",
+			"grid",
+			"",
+			"index/",
+			"es-ES"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

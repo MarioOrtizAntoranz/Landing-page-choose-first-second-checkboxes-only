@@ -1,0 +1,345 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+body{
+    background-color: #110e34;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+h4{
+    line-height:1.4em;
+}
+legend{
+    color:#fff;
+}
+fieldset{
+    height: 265px;
+}
+fieldset img{
+    padding-bottom: 4px;
+    margin-right: 4px;
+}
+fieldset label{
+    cursor: pointer;
+}
+.group-phases input[type=checkbox] {
+    margin: 16px 6px 16px;
+}
+.navbar-brand {
+    padding: 0px;
+}
+.logo-top{
+    float: left;
+    width: 222px;
+    height: 43px;
+    background-image: url('../img/logo.png');
+    background-size: 222px 43px;
+    text-indent:-9999px;
+    display: block;
+    margin-top: 7px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    margin-top: 4px;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #96d9f8;
+}
+.topnav {
+    background: #214b86;
+    background: -moz-linear-gradient(top, #214b86 0%, #0c2758 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#214b86), color-stop(100%,#0c2758));
+    background: -webkit-linear-gradient(top, #214b86 0%,#0c2758 100%);
+    background: -o-linear-gradient(top, #214b86 0%,#0c2758 100%);
+    background: -ms-linear-gradient(top, #214b86 0%,#0c2758 100%);
+    background: linear-gradient(to bottom, #214b86 0%,#0c2758 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#214b86', endColorstr='#0c2758',GradientType=0 );
+    height: 60px;
+    border-bottom: 2px solid #0c161e;
+    font-family: "Lato-Black",Helvetica,Arial,sans-serif;
+    font-size: 14px; 
+    background-color: #0b0275;
+}
+.success-alert{
+    font-size: 1.4em;
+    background-color: #09b812;
+    padding: 14px;
+    max-width: 600px;
+    min-width: 270px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 44px;
+    line-height: 1.2em;
+    border-radius: 6px;
+    display: none;
+}
+.validation-alert{
+    font-size: 1.2em;
+    border: 1px solid red;
+    background-color: white;
+    padding: 4px;
+    max-width: 600px;
+    min-width: 270px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 44px;
+    color: red;
+    display: none;
+}
+.intro-header {
+    padding-top: 50px; 
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background-color: #040031;
+    background: url(../img/intro-bg.jpg) no-repeat center center; 
+    background-size: cover;
+}
+.intro-header-success{
+    background-color: #0b0275;
+    background-image: none;
+    color: #fff;
+    text-align: center;
+}
+.intro-message {
+    position: relative;
+    padding-top: 4%;
+}
+
+.intro-message > h1 {
+    margin: 0;
+    font-size: 3em;
+}
+
+.intro-message > h1 > i , .subtitle h3 i, h4 i, .alert-group {
+    color: #fdcb43;
+}
+.phase-row{
+    float: left;
+    margin-bottom: 16px;
+}
+.subtitle{
+    font-weight: lighter;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.subtitle > h3 {
+    line-height: 1.6em;
+}
+
+input.form-control:focus, select.form-control:focus{
+    outline: none !important;
+    border:1px solid #fb6400;
+}
+
+.form-container {
+    font-weight: lighter;
+    margin: 0 auto;
+    text-align: left;
+    padding-bottom: 26px; 
+}
+
+.btn-form-submit  {
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.2em;
+    background-color: #fb6400;
+    float: right;
+    margin-right:15px;  
+}
+.counter{
+    font-size:1.2em;
+    color:green;
+    display:inline
+}
+.hide{
+    display: none;
+}
+.checkbox label  {
+    margin:0 15px 15px 15px;
+}
+.checkbox a {
+    color:#96d9f8;
+}
+
+.control-label{
+    white-space: nowrap; 
+}
+
+.intro-divider {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+    margin-bottom: 36px;
+}
+
+footer {
+    padding: 50px 0;
+    background: #15386b;
+}
+footer a{
+    color:#fff;
+}
+.logo-footer{
+    margin-top: -12px;
+    display: inline;
+}
+
+p.copyright {
+    margin: 15px 0 0;
+}
+.network-name {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.banner {
+    border-top: 2px solid black;
+    padding: 50px 0;
+    color: #f8f8f8;
+    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.banner h2 {
+    margin: 0;
+    font-size: 2em;
+}
+
+.banner ul {
+    margin-bottom: 0;
+}
+
+.banner-social-buttons {
+    float: right;
+    margin-top: 0;
+}
+.panel{ 
+    margin-top: 24px;
+}
+.panel-default>.panel-heading {
+    background-color:#15386b;
+    color: #fff;
+}
+.panel-default>.panel-heading+.panel-collapse>.panel-body {
+    color: black;
+}
+/* Media Queries */
+@media(max-width:1199px) {
+    .form-container {
+        width: 80%;
+    }
+    fieldset label{
+    font-size: 0.8em;
+    }
+    ul.banner-social-buttons {
+        float: left;
+        margin-top: 15px;
+    }
+    }
+
+@media(max-width:767px) {
+    .navbar-collapse{
+    background-color: #214b86;
+    }
+    .form-fields{
+        margin-left: 15px;
+    }
+    .form-container {
+        width: 100%;
+    }
+
+    .intro-message {
+        padding-bottom: 15%;
+    }
+
+    .intro-message > h1 {
+        font-size: 3em;
+    }
+
+    ul.intro-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.intro-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+
+    .intro-divider {
+        width: 100%;
+    }
+
+    .banner h2 {
+        margin: 0;
+        text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+        font-size: 3em;
+    }
+
+    ul.banner-social-buttons > li {
+        display: inline;
+        margin-bottom: 20px;
+        padding: 0;
+        margin: 7px;
+    }
+
+    ul.banner-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+    .logo-top{
+        margin: 7px 0px 0px 14px;
+    }
+    .intro-message {
+    padding-top: 6%;
+    }
+}
+
+@media(max-width: 500px){
+    fieldset {
+    height: 320px;
+    }
+    fieldset label{
+    font-size: 0.6em;
+    }
+    .intro-message {
+    padding-top: 8%;
+    }
+    .logo-top{
+    background-repeat: no-repeat;
+
+    }
+    .subtitle{
+        width: 100%;
+        font-size: 1.2em;
+    }
+    .btn-form-submit {
+        width: 150px;
+    }
+    ul.banner-social-buttons > li {
+        display: inline-block;
+    }
+}
+
+
+
+
+
+
