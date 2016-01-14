@@ -6,9 +6,9 @@
   //--------------------------------------------------------------------------
   
   $host = "localhost";
-  $databaseName = "peripeci_miapuesta";
-  $user = "peripeci_marioor";
-  $pass = "m4r51lt0r";
+  $databaseName = "xxx";
+  $user = "xxx";
+  $pass = "xxx";
   
 
 
