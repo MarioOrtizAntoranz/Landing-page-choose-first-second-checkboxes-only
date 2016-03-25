@@ -1,4 +1,4 @@
-$( document ).ready(function() {
+$(document).ready(function() {
     // Set maximum number of selected checkboxes on fieldsets to two, disable rest
     $('.check-fieldset input').click(function() {
     if ($(this).parents('.check-fieldset').find('input:checked').length >= 2) {
@@ -148,7 +148,7 @@ else{
     }
   }).done (function(){
             // Open tab and download CSV file with DDBB records
-            var win = window.open('http://marioortiz.net/Landing-page/backend/createCSV.php', '_blank');
+            var win = window.open('xxxxx/Landing-page/backend/createCSV.php', '_blank');
             if(win){
             //Browser has allowed it to be opened
             win.focus();

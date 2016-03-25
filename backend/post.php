@@ -20,7 +20,7 @@ if ($conn->connect_error) {
 } 
 
 // Create new table in DDBB to store user data
-$sql = "CREATE TABLE IF NOT EXISTS peripeci_miapuesta.miapuesta_form (
+$sql = "CREATE TABLE IF NOT EXISTS xxx_miapuesta.miapuesta_form (
   ID int NOT NULL AUTO_INCREMENT,
   DateInserted timestamp DEFAULT CURRENT_TIMESTAMP,
   fullname varchar(250) NOT NULL,
